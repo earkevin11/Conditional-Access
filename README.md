@@ -73,3 +73,8 @@ Report Only feauture (Testing purposes)
 - When report-only is enabled, results are logged in the Conditional Access and Report-only tabs of the Sign-in log details. 
 - During sign-in, policies in report-only mode are evaluated but not enforced. Remember, it is for testing purposes.
 
+
+Multiple conditional access policies
+
+- When it comes to multiple conditional access policies, <em> deny policies trump allow policies. </em> 
+- Deny policy always takes precedence.
