@@ -68,3 +68,8 @@ Below, conditional access can require users log in from a particular location vi
 <p/>
 
 Report Only feauture (Testing purposes)
+
+- Report-only mode is a new Conditional Access policy state that allows IT admins to test and evaluate the impact of Conditional Access policies before enabling them in their environment.
+- When report-only is enabled, results are logged in the Conditional Access and Report-only tabs of the Sign-in log details. 
+- During sign-in, policies in report-only mode are evaluated but not enforced. Remember, it is for testing purposes.
+
