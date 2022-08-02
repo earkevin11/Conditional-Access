@@ -6,7 +6,7 @@
 What is Conditional-Access?
 
 - They're a more flexible MFA policy. Think of them as if-then statements; If a user wants to access a resource, then they must complete an action. 
-- They're another life of defense and is only enabled after the single factor authentication. Similar to MFA but offers more flexibility.
+- They're another line of defense and is only enabled after the single factor authentication. Similar to MFA but offers more flexibility.
 
 Why do we need Conditional Access?
 - Imagine if you were an IT admin and had enable MFA on 10,000 employees. 
